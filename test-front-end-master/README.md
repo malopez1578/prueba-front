@@ -2,7 +2,7 @@
 
 La siguiente es una prueba para evaluar conocimientos de HTML, CSS, JavaScript y diseño Responsive.
 
-Se busca que cumpla con los requerimientos especificados dentro del tiempo límite para esta prueba que es de **3 horas**.
+Se busca que cumpla con los requerimientos especificados dentro del tiempo límite para esta prueba que es de **2 a 3 horas**.
 
 Se evaluará habilidad en HTML y CSS, además aspectos de organización de código, buenas prácticas, priorización y creatividad para resolver los requerimientos.
 
@@ -16,7 +16,7 @@ Se evaluará habilidad en HTML y CSS, además aspectos de organización de códi
 1. **Maquetación:** Deberás traducir el diseño ubicado en [`assets/Design PSD/`](assets/Design PSD/) a HTML+CSS.
 Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PSD/`](assets/Design PSD/)
 
-1. **Requerimientos:** Traducir diseño a HTML+CSS. Deberás usar técnicas CSS3 y HTML5 cuando lo requiera. Además debe realizar el sitio responsive. **Se recomienda fuertemente** realizar al menos la maquetación para desktop y mobile. Utilizar FontAwesome donde sea necesario.
+1. **Requerimientos:** Traducir diseño a HTML+CSS. Deberás usar técnicas CSS3 y HTML5 cuando lo requiera. Además debe realizar el sitio responsive. **Se recomienda fuertemente** realizar al menos la maquetación para desktop y mobile, teniendo en cuenta los breakpoints intermedios. Utilizar FontAwesome donde sea necesario.
 
 1. **JavaScript:** Se deben realizar las siguiente tareas:
 	*  **Validaciones**
