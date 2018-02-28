@@ -16,7 +16,7 @@ Se evaluará habilidad en HTML y CSS, además aspectos de organización de códi
 1. **Maquetación:** Deberás traducir el diseño ubicado en [`assets/Design PSD/`](assets/Design PSD/) a HTML+CSS.
 Si es necesario puede descargar el PSD que esta en la carpeta [`assets/Design PSD/`](assets/Design PSD/)
 
-1. **Requerimientos:** Traducir diseño a HTML+CSS. Deberás usar técnicas CSS3 y HTML5 cuando lo requiera. Además debe realizar el sitio responsive. **Se recomienda fuertemente** realizar al menos la maquetación para desktop y mobile, teniendo en cuenta los breakpoints intermedios. Utilizar FontAwesome donde sea necesario.
+1. **Requerimientos:** Traducir diseño a HTML+CSS. Deberás usar técnicas CSS3 y HTML5 cuando lo requiera, se valorará usar bootstrap para su estructura. Además debe realizar el sitio responsive. **Se recomienda fuertemente** realizar al menos la maquetación para desktop y mobile, teniendo en cuenta los breakpoints intermedios. Utilizar FontAwesome donde sea necesario.
 
 1. **JavaScript:** Se deben realizar las siguiente tareas (se espera la construccion de la validacion de los campos desde cero, usando maximo como framework JQuery):
 	*  **Validaciones**
