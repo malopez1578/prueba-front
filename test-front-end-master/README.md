@@ -2,7 +2,7 @@
 
 La siguiente es una prueba para evaluar conocimientos de HTML, CSS, JavaScript y diseño Responsive.
 
-Se busca que cumpla con los requerimientos especificados dentro del tiempo límite para esta prueba que es de **2 a 3 horas**.
+Se busca que cumpla con los requerimientos especificados dentro del tiempo límite para esta prueba que es de **1.5 a 2 horas**.
 
 Se evaluará habilidad en HTML y CSS, además aspectos de organización de código, buenas prácticas, priorización y creatividad para resolver los requerimientos.
 
